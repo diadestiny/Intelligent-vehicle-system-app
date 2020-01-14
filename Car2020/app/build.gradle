@@ -39,4 +39,8 @@ dependencies {
     implementation "com.android.support:preference-v14:$support_ver"
     implementation 'com.android.support.constraint:constraint-layout:1.0.2'
 
+
+    //底部导航栏
+    implementation 'devlight.io:navigationtabbar:1.2.5'
+
 }
