@@ -1,0 +1,17 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="content_horizontal_margin">10dp</dimen>
+    <dimen name="chat_item_padding">10dp</dimen>
+    <dimen name="item_extra_padding">64dp</dimen>
+    <dimen name="bubble_item_padding">6dp</dimen>
+    <dimen name="insight_padding">1dp</dimen>
+    <dimen name="record_margin">10dp</dimen>
+    <dimen name="play_control_margin">40dp</dimen>
+    <!-- 字体大小 -->
+    <dimen name="text_subhead">17sp</dimen>
+
+
+    <!-- General -->
+
+</resources>
